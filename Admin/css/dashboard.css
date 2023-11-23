@@ -1,0 +1,103 @@
+body{
+    background-color: cadetblue;
+    }
+.title{
+  background: black;
+}
+.logout{
+  float: right;
+}
+h1{
+  color: orange; 
+  padding: 0px;
+}
+.container{
+  background: white;
+  background-size: 50%;
+  padding: 20px;
+}  
+.container1{
+  background: teal;
+  background-size: 50%;
+  padding: 20px;
+  height: 40px
+}  
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.div1 {
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    float: left;
+}
+.div2 {
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    float: right;
+    margin-right: 45%;
+}
+.loginbtn {  
+  background-color: rgb(62, 62, 146);  
+  color: white;  
+  padding: 10px 15px;  
+  float: right;
+  margin-right: 10px 0;  
+  border-radius: 5px;  
+  cursor: pointer;  
+  opacity: 0.9;  
+} 
+.btn1 {  
+  background-color: rgb(62, 62, 146);  
+  color: white;  
+  padding: 10px 15px;  
+  float: left;
+  margin-right: 2px;  
+  border-radius: 5px;  
+  cursor: pointer;  
+  opacity: 0.9;  
+} 
+.btn2 {  
+  background-color: red;  
+  color: white;  
+  padding: 5px 8px;  
+  float: left;
+  margin-right: 2px;  
+  border-radius: 5px;  
+  cursor: pointer;  
+  opacity: 0.9;  
+} 
+.btn3 {  
+  background-color: rgb(10, 92, 168);  
+  color: white;  
+  padding: 5px 8px;  
+  float: left;
+  margin-right: 2px;  
+  border-radius: 5px;  
+  cursor: pointer;  
+  opacity: 0.9;  
+} 
+.btn4 {  
+    background-color: rgb(10, 92, 168);  
+    color: white;  
+    padding: 5px 18px; 
+    margin-right: 2px;  
+    border-radius: 5px;  
+    cursor: pointer;  
+    opacity: 0.9;  
+  } 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    width: px;
+    padding: 10px;
+    text-align: center;
+}
+.text-white {
+  float: left;
+  color: white;
+}
